@@ -1,10 +1,10 @@
-short_name = "godot"
-name = "Godot Engine"
-major = 4
-minor = 2
+short_name = "rpengine"
+name = "RPEngine"
+major = 1
+minor = 0
 patch = 0
-status = "dev"
+status = "alpha"
 module_config = ""
 year = 2023
-website = "https://godotengine.org"
+website = "https://fyrixer-rp-ua.github.io/rp-engine/"
 docs = "latest"
